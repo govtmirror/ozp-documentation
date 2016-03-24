@@ -1,4 +1,4 @@
-OZONE Platform Documentation
+Ozone Platform Documentation
 ============================
 
 This repository contains guidelines, standards and documentation for the OZONE Platform. This guidance is designed to reflect the need for standardization across coordinated development teams and the community as the software grows and matures over time, and will be used as a checklist for pull request approvals and other control gates. 
@@ -26,7 +26,7 @@ https://github.com/ozone-development/ozp-documentation/wiki
 
 OZP Pull Request
 ==============================
-The OZONE Platform team is excited to have the opportunity to receive pull request from the community.  Pull request should be submitted following the Fork & Pull guidance in [GitHub Help] (https://help.github.com/articles/using-pull-requests/). The Repos that we expect most contributions from will have a [CONTRIBUTING.md](https://github.com/ozone-development/ozp-documentation/blob/master/CONTRIBUTING.md) file. We request that pull request be submitted in small chunks as to limit the review and integration time commitment from our team.
+The Ozone Platform team is excited to have the opportunity to receive pull request from the community.  Pull request should be submitted following the Fork & Pull guidance in [GitHub Help] (https://help.github.com/articles/using-pull-requests/). The Repos that we expect most contributions from will have a [CONTRIBUTING.md](https://github.com/ozone-development/ozp-documentation/blob/master/CONTRIBUTING.md) file. We request that pull request be submitted in small chunks as to limit the review and integration time commitment from our team.
 
 RoadMap
 ===============================
