@@ -11,6 +11,9 @@ https://github.com/ozone-development/ozp-documentation/tree/master/Documentation
 **Developer Setup**  
 https://github.com/ozone-development/ozp-documentation/wiki/Developer_Setup
 
+**Deploying OZP**  
+https://github.com/ozone-development/ozp-ansible
+
 **IWC Documentation:**  
 http://ozone-development.github.io/ozp-iwc/  
 http://ozone-development.github.io/ozp-iwc/FAQ.html
