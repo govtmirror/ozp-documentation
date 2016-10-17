@@ -16,7 +16,6 @@ https://github.com/ozoneplatform/ozp-ansible
 
 **IWC Documentation:**  
 http://ozoneplatform.github.io/ozp-iwc/  
-http://ozoneplatform.github.io/ozp-iwc/FAQ.html
 
 **OZP Release Info:**  
 https://github.com/ozoneplatform/ozp-releases
